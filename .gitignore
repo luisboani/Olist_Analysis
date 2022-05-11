@@ -180,3 +180,5 @@ cython_debug/
 data/*
 
 *.csv
+
+*.DS_Store
