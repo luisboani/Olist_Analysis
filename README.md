@@ -1,6 +1,6 @@
 # Olist E-Commerce Analysis
 
-The **Olist e-commerce Analysis**  is a notebook dedicated to analise and extract insights from a public dataset of a Brazilian e-commerce. The dataset has information of 100k orders from 2016 to 2018 made at multiple marketplaces in Brazil. 
+The **Olist e-commerce Analysis**  is a notebook dedicated to analyzing and extracting insights from a public dataset of a Brazilian e-commerce. The dataset has information on 100k orders from 2016 to 2018 made at multiple marketplaces in Brazil. 
 
 The dataset can be accessed on the [Kaggle website](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
 
